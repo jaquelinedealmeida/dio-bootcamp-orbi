@@ -1,2 +1,2 @@
 # dio-bootcamp-orbi
-Repositório do Projeto de GitHub da Dio. 
+Repositório criado para o desafio de Projeto de GitHub da Dio. 
